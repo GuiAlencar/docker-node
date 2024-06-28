@@ -29,6 +29,10 @@
 ## Installation
 
 ```bash
+$ npx @nestjs/cli@latest new NOME_DO_PROJETO
+```
+
+```bash
 $ yarn install
 ```
 
